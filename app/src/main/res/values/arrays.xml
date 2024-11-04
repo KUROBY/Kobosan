@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Daftar akhiran domain email yang bisa dipilih oleh pengguna -->
+    <string-array name="custom_domains">
+        <item>@hotmail.com</item>
+        <item>@gmail.com</item>
+        <item>@yahoo.com</item>
+        <!-- Tambahkan akhiran domain email lainnya di sini -->
+    </string-array>
+</resources>

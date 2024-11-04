@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="widget_width">160dp</dimen>
+    <dimen name="widget_height">160dp</dimen>
+    <!-- ... -->
+    <dimen name="dialog_margin">16dp</dimen>
+    <!-- ... -->
+</resources>
