@@ -1,4 +1,4 @@
-package com.kobo.san
+package com.kvoxkobo.san
 
 import android.app.Application
 import android.app.NotificationChannel
@@ -10,7 +10,7 @@ import android.os.Build
 class MyApplication : Application() {
 
     companion object {
-        private const val PREFS_NAME = "com.kobo.san.prefs"
+        private const val PREFS_NAME = "com.kvoxkobo.san.prefs"
 
         private const val KEY_CUSTOM_SUFFIX = "customSuffix"
         private const val KEY_CUSTOM_STRING = "customString"

@@ -90,5 +90,62 @@
             android:elevation="4dp"
             android:outlineProvider="bounds" />
 
+        <ImageButton
+            android:id="@+id/floating_button_link1"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:background="@null"
+            android:src="@drawable/ic_number_1"
+            android:elevation="4dp"
+            android:layout_marginBottom="6dp"
+            android:outlineProvider="bounds"
+            android:contentDescription="Link 1" />
+
+        <ImageButton
+            android:id="@+id/floating_button_link2"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:background="@null"
+            android:src="@drawable/ic_number_2"
+            android:elevation="4dp"
+            android:layout_marginBottom="6dp"
+            android:outlineProvider="bounds"
+            android:contentDescription="Link 2" />
+
+        <ImageButton
+            android:id="@+id/floating_button_link3"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:background="@null"
+            android:src="@drawable/ic_number_3"
+            android:elevation="4dp"
+            android:layout_marginBottom="6dp"
+            android:outlineProvider="bounds"
+            android:contentDescription="Link 3" />
+
+        <ImageButton
+            android:id="@+id/floating_button_link4"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:background="@null"
+            android:src="@drawable/ic_number_4"
+            android:elevation="4dp"
+            android:outlineProvider="bounds"
+            android:contentDescription="Link 4" />
+
+        <ImageButton
+            android:id="@+id/floating_button7"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:background="@null"
+            android:src="@drawable/ic_your_icon7"
+            android:elevation="4dp"
+            android:outlineProvider="bounds" />
+
     </LinearLayout>
 </LinearLayout>

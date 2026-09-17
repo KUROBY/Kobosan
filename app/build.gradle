@@ -4,15 +4,15 @@ plugins {
 }
 
 android {
-    namespace 'com.kobo.san'
+    namespace 'com.kvoxkobo.san'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.kobo.san"
+        applicationId "com.kvoxkobo.san"
         minSdk 24
         targetSdk 33
         versionCode 202
-        versionName "2.1"
+        versionName "5.0.1"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
