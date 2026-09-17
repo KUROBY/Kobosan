@@ -1,4 +1,4 @@
-package com.kobo.san
+package com.kvoxkobo.san
 
 import android.content.BroadcastReceiver
 import android.content.Context

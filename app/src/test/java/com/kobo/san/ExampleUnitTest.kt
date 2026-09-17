@@ -1,4 +1,4 @@
-package com.kobo.san
+package com.kvoxkobo.san
 
 import org.junit.Test
 

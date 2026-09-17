@@ -16,11 +16,11 @@ class PreferenceManager(context: Context) {
     private val sharedPref: SharedPreferences = context.getSharedPreferences(PREF_NAME, Context.MODE_PRIVATE)
 
     var customSuffix: String?
-        get() = sharedPref.getString(CUSTOM_SUFFIX, "KOBO")
+        get() = sharedPref.getString(CUSTOM_SUFFIX, "CODE")
         set(value) = sharedPref.edit().putString(CUSTOM_SUFFIX, value).apply()
 
     var customString: String?
-        get() = sharedPref.getString(CUSTOM_STRING, "warja123@")
+        get() = sharedPref.getString(CUSTOM_STRING, "JOKOWI112211@")
         set(value) = sharedPref.edit().putString(CUSTOM_STRING, value).apply()
 
     var customDomain: String?
